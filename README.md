@@ -15,6 +15,5 @@ The goal was to categorize individuals into health risk groups based on World He
 - **Correlation:** Relationship between age groups and health categories.
 
 
-## Screenshot of the Dashboard
-
- ![Uploading Screenshot (172).png…]()
+## Dashboard 
+<img width="1112" height="557" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/7c124a7d-a92c-44dc-a968-aa9f6dd79670" />
