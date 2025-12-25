@@ -17,4 +17,4 @@ The goal was to categorize individuals into health risk groups based on World He
 
 ## Screenshot of the Dashboard
 
-- ![Uploading image.png…]()
+- ![Uploading Screenshot (172).png…]()
